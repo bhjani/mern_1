@@ -1,0 +1,13 @@
+.cd {
+  display: flex;
+  flex-direction: column;
+  width: 60vw;
+  height: 25vh;
+  background-color: lightcoral;
+  border: none;
+  box-shadow: 2px 2px 5px #999;
+  border-radius: 20px;
+  text-align: center;
+  line-height: 5px;
+  margin-top: 30px;
+}
